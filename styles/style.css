@@ -297,7 +297,7 @@
 }
 
 .about-text {
-  padding-top: 135px; 
+  padding-top: 135px;
 }
 
 .about-title {
@@ -369,7 +369,7 @@
   text-transform: lowercase;
 }
 
-.text-footer-list-underline{
+.text-footer-list-underline {
   text-underline-offset: 4px;  
   text-decoration: underline 1px;
   font-family: Raleway, sans-serif;
