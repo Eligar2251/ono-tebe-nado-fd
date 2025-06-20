@@ -1,13 +1,12 @@
 /* Шапка */
 .header {
-  height: 293px;
   position: relative;
   width: 100%;
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
   box-sizing: border-box;
-  padding: 0 50px;
+  padding: 92px 50px 91.5px 50px;
 }
 
 .nav {
@@ -61,14 +60,14 @@
   width: 240px;
   text-align: left;
   margin-bottom: 2px;
-  display: flex; 
+  display: flex;
   flex-direction: column;
   align-items: flex-start;
   gap: 5px;
 }
   
 .contacts-text-underline {
-  line-height: 1;  
+  line-height: 1;
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-style: normal;
@@ -111,7 +110,7 @@
   align-items: center;
   color: #fff;
   z-index: 2;
-  padding: 165px 50px 103px 50px;
+  padding: 165px 50px 101px 50px;
 }
 
 .cover-title-item1 {
@@ -146,9 +145,9 @@
   font-size: 22px;
   font: normal;
   color: #fff;
+  margin-top: 2px;
   padding-left: 50px;
-  padding-bottom: 49px;
-  margin-top: 1px;
+  padding-bottom: 49px; 
 }
 
 .cover-p {
@@ -163,17 +162,18 @@
 .cover-button {
   margin-left: 83px;
   box-sizing: border-box;
-  padding-top: 12px;
-  padding-left: 31px;
-  padding-right: 33px;
-  padding-bottom: 12px;
   border: 1px solid white;
+  font-weight: 500;
   text-transform: uppercase;
   text-align: center;
   font-family: Raleway, sans-serif;
   font-size: 22px;
   font: normal;
   color: #fff;
+  padding-top: 12px;
+  padding-left: 30px;
+  padding-right: 31px;
+  padding-bottom: 12px;
 }
 
 .lots {
@@ -201,13 +201,12 @@
 .lot-cards-li {
   position: relative;
   width: calc(33.33% - 17px);
-  min-height:  auto; 
+  min-height:  auto;
   list-style: none;
 }
 
 .card-link {
   text-decoration: none;
-  color: inherit; 
   display: block;
   height: 100%;
 }
@@ -276,7 +275,7 @@
   padding: 0px 24px 180px 24px;
 }
 
-.logo-about {  
+.logo-about {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -291,7 +290,6 @@
 
 .logo-about-image {
   width: 148px;
-  height: 114px;
   align-items: center;
   object-fit: cover;
 }
