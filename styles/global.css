@@ -14,21 +14,20 @@ body {
 
 }
 
-h1{
+h1 {
   font-size: 100px;
   font: bold;
-  font: normal;
   text-transform: uppercase;
 }
 
-h2{
+h2 {
   font-size: 40px;
   font: bold;
   color: #000;
   
 }
 
-h3{
+h3 {
   font-size: 22px;
   font: bold;
   color: #fff;

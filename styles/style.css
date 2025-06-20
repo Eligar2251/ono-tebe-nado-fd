@@ -24,7 +24,7 @@
 }
 
 .nav-list-nobullit {
-    list-style: none;
+  list-style: none;
 }
 
 .text-header-list {
@@ -46,7 +46,6 @@
 }
 
 .logo {
-  
   margin-left: 1px;
   display: block;
   text-align: center;
@@ -66,7 +65,6 @@
   flex-direction: column;
   align-items: flex-start;
   gap: 5px;
-
 }
   
 .contacts-text-underline {
@@ -77,7 +75,6 @@
   text-transform: lowercase;
   text-decoration: underline 1px;
   text-underline-offset: 4px;
-  
 }
 
 .contacts-text {
@@ -86,12 +83,6 @@
   font-size: 18px;
   text-decoration-line: none;
   line-height: 1.3;
-
-}
-
-/*первая секция*/
-.main {
-
 }
 
 .cover {
@@ -179,12 +170,10 @@
   border: 1px solid white;
   text-transform: uppercase;
   text-align: center;
-
   font-family: Raleway, sans-serif;
   font-size: 22px;
   font: normal;
   color: #fff;
-
 }
 
 .lots {
@@ -229,7 +218,6 @@
   overflow: hidden;
   height: 596px;
   width: 100%;
-  
 }
 
 .card img {
@@ -272,75 +260,74 @@
 }
 
 .all-lots {
-    font-family: Raleway, sans-serif;
-    margin-left: 40px;
-    font-size: 20px;
-    text-decoration: underline 1px;
-    text-underline-offset: 5px;
+  font-family: Raleway, sans-serif;
+  margin-left: 40px;
+  font-size: 20px;
+  text-decoration: underline 1px;
+  text-underline-offset: 5px;
 }
 
 .about {
-    width: 100%;
-    display: grid;
-    grid-template-columns: calc(33.33%) auto;
-    align-items: center;
-    gap: 8px;
-    padding: 0px 24px 180px 24px;
-    
+  width: 100%;
+  display: grid;
+  grid-template-columns: calc(33.33%) auto;
+  align-items: center;
+  gap: 8px;
+  padding: 0px 24px 180px 24px;
 }
 
 .logo-about {  
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-self: flex-start;
-    width: 240px;
-    height: 240px;
-    background-color: #000;
-    border-radius: 50%;
-    margin-left: 46px;
-    margin-top: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: flex-start;
+  width: 240px;
+  height: 240px;
+  background-color: #000;
+  border-radius: 50%;
+  margin-left: 46px;
+  margin-top: 35px;
 }
 
 .logo-about-image {
-    width: 148px;
-    height: 114px;
-    align-items: center;
-    object-fit: cover;
+  width: 148px;
+  height: 114px;
+  align-items: center;
+  object-fit: cover;
 }
 
 .about-text {
-    padding-top: 135px; 
+  padding-top: 135px; 
 }
 
 .about-title {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 
 .about-p-top, .about-p-bottom {
-    text-align: left;
-    font-family: Raleway, sans-serif;
-    font-size: 20px;
+  text-align: left;
+  font-family: Raleway, sans-serif;
+  font-size: 20px;
     
 }
 
 .about-p-top {
-    margin-top: 99px;
+  margin-top: 99px;
 }
 
 .about-p-bottom {
-    margin-top: 25px;
+  margin-top: 25px;
 }
 
 .footer {
-    position: relative;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    height: 180px;
-    width: 100%;
-    align-items: center;
-    padding: 0 50px;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  height: 180px;
+  width: 100%;
+  align-items: center;
+  padding: 0 50px;
 }
 
 .footer-contacts {
@@ -399,6 +386,6 @@
 }
 
 .social-icon {
- width: 48px;
- height: 48px;
+  width: 48px;
+  height: 48px;
 }
