@@ -47,7 +47,6 @@ li,
 blockquote {
   margin: 0;
   padding: 0;
-  font-family: Raleway, sans-serif;
 }
 
 a {
@@ -59,7 +58,6 @@ img {
 }
 
 button {
-  font-family: Raleway, sans-serif;
   background: none;
   border: none;
 }
